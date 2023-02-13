@@ -1,7 +1,7 @@
 <div>
   
   <h1>
-    Olá, sou o Douglas, estudante de Desenvolvimento Web na Trybe
+    Olá, sou o Douglas, um estudante de Desenvolvimento Web
   </h1>
 </div>
 
