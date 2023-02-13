@@ -1,6 +1,6 @@
 <div>
   
-  <h1>
+  <h1 align="center">
     Olá, sou o Douglas, um estudante de Desenvolvimento Web
   </h1>
 </div>
