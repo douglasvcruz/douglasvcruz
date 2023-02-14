@@ -17,9 +17,7 @@
   
 </div>
 
-##
-
-<div><br>
+  <div><h1>Stacks</h1>
   <img align="center" alt="React" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Redux" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg">
   <img align="center" alt="Js" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -29,9 +27,7 @@
   <img align="center" alt="linux" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
 </div><br>
 
-##
-
-<div><br>
+  <div><h1 style="margin-left: 30px;">Social</h1>
   <a href="https://www.linkedin.com/in/douglas-virissimo-da-cruz/" target="_blank"><img align="center" width="150" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="mailto:cbdouglasvirissimo@hotmail.com"><img width="120" align="center" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div>
+</div><br>
