@@ -1,7 +1,7 @@
 <div>
   
   <h1 align="center">
-    Olá, sou o Douglas, um estudante de Desenvolvimento Web
+    Olá, sou o Douglas, um Desenvolvedor Web Full Stack
   </h1>
 </div>
 
